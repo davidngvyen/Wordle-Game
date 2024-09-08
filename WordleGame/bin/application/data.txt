@@ -1,0 +1,1 @@
+10,tithe,2,2,A:true,U:true,D:true,I:true,O:true,S:true,P:true,I:true,N:true,E:true,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,:false,
